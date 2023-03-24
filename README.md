@@ -22,7 +22,8 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 
+# Digital World 
+- In this Project I have created a site for an Digital World company, Financial based on the design of creative commons global summit 2015 designed by Cindy Shin in Behance. Here I created only two pages Home page and About Page using HTML, CSS and Javascript.
 
 ## Built With
 
@@ -43,7 +44,7 @@
 
 Go to the Folder where want to copy this repo and type the following cmds in you terminal:
 
-- git clone 
+- git clone git@github.com:HenaryKhuraijam/Capstone.git
 
 ## Prerequisites
 
@@ -75,7 +76,7 @@ Go to the Folder where want to copy this repo and type the following cmds in you
    -Making responsive website
    -Making desktop version website
 
- [To Add more work pages and style]
+ [To Add more events]
 
 ## 🤝 Contributing
 
@@ -91,6 +92,7 @@ Give a [⭐️](../../stargazers) if you like this project!
 ## Acknowledgments
 - Microverse Team
 - My Family
+- Cindy Shin in Behance. For the Design Template
 - All my fellow micronauts.
 
 ## 📝 License
