@@ -13,23 +13,28 @@
 a {
   text-decoration: none;
 }
+
+.abt-sec img {
+  height: 150px;
+  width: 300px;
+}
+
 #navbar-top img {
   height: 30px;
   width: 100px;
 }
 
-.hklogo img{
- height: 50px;
- width: 100px;
+#hklogo img {
+  height: 50px;
+  width: 100px;
 }
 
-.abt-sec img {
-height: 150px;
-width: 300px;
+#logo img {
+  height: 50px;
+  width: 100px;
 }
 
 /* || Typography & Colors */
-
 body {
   font: 500 15px/1.5em "Lato", sans-serif;
   color: #272a31;
@@ -64,7 +69,6 @@ h4 { font-weight: 600; }
   background-image: url(images/fiery.jpg);
   background-size: cover;
   -webkit-background-clip: text;
-  -moz-background-clip: text;
   color: #ec5242; /* Fall back for background-clip */
   color: transparent;
 }
@@ -587,7 +591,6 @@ button:hover {
   }
 
   .partners {
-    min-width: none;
     width: auto;
   }
 
