@@ -626,9 +626,8 @@ button:hover {
     align-items: center;
   }
 
-
   .footer {
-  display: flex;
-  flex-direction: column;
+    display: flex;
+    flex-direction: column;
   }
 }
