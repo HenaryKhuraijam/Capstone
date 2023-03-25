@@ -108,7 +108,7 @@ document.getElementById('mobile-menu').addEventListener('click', () => {
   mobMenu.appendChild(addItem('a', 'link3', '#', 'Join'));
   mobMenu.appendChild(addItem('a', 'link4', '#', 'Sponsor'));
   mobMenu.appendChild(addItem('a', 'link5', '#', 'News'));
-  mobMenu.appendChild(addItem('a', 'link6', '#', 'VD Campaign'));
+  mobMenu.appendChild(addItem('a', 'link6', '#', 'DW Campaign'));
   document.body.appendChild(mobMenu);
   const linkss = Array.from(document.getElementsByClassName('dyn'));
   linkss.forEach((btn) => {

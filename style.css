@@ -512,6 +512,15 @@ button:hover {
 
 .mob { display: block; }
 
+.footer {
+  display: none;
+}
+
+.bg-dark {
+  display: flex;
+  flex-direction: column;
+}
+
 @media only screen and (min-width: 768px) {
   /* || Deskstop Responsive */
 
@@ -615,5 +624,11 @@ button:hover {
 
   .cnt-abt {
     align-items: center;
+  }
+
+
+  .footer {
+  display: flex;
+  flex-direction: column;
   }
 }
