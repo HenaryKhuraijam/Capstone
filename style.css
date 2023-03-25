@@ -394,9 +394,9 @@ button:hover {
   color: #fff;
   display: flex;
   flex-direction: column;
-  background-color: #272a31;
+  background-color: #3c4049;
   mix-blend-mode: multiply;
-  backdrop-filter: blur(8px);
+  backdrop-filter: blur(2px);
   font-size: 2em;
   line-height: 1.5em;
   font-weight: 600;
