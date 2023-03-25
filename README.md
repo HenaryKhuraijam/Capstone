@@ -38,7 +38,7 @@
 
 ## Live Demo
 
-[Live Demo]()
+[Live Demo](https://henarykhuraijam.github.io/Capstone/)
 
 ## Getting started
 
