@@ -74,7 +74,7 @@ document.getElementById('more').addEventListener('click', (event) => {
 });
 
 // =====================================end of appending speakers
-// ============ Mob Menu =============
+// ============ Mob Menu ============
 
 const mobMenu = document.createElement('div');
 mobMenu.className = 'overlay-container';

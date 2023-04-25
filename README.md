@@ -22,8 +22,7 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# Digital World 
-- In this Project I have created a site for an Digital World company, Financial based on the design of creative commons global summit 2015 designed by Cindy Shin in Behance. Here I created only two pages Home page and About Page using HTML, CSS and Javascript.
+# 
 
 ## Built With
 
@@ -38,13 +37,13 @@
 
 ## Live Demo
 
-[Live Demo](https://henarykhuraijam.github.io/Capstone/)
+[Live Demo]()
 
 ## Getting started
 
 Go to the Folder where want to copy this repo and type the following cmds in you terminal:
 
-- git clone git@github.com:HenaryKhuraijam/Capstone.git
+- git clone 
 
 ## Prerequisites
 
